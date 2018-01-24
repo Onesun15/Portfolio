@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #333333;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 130%;
+  color: white;
+  text-shadow: 0 0 1px #343434;
+  height: 100%;
+  margin: 0;
+  text-align: center;
+}
+
+section {
+  margin: 0 auto;
+}
+
+.container {
+  width: 100%;
+}
+
+#hey {
+  font-size: 27px;
+  position: relative;
+  top: 5px;
+}
+
+.messages {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+#contact-links {
+  font-size: 36px;
+  margin-top: 100px;
+  text-align: center;
+}
+
+#aboutMe-section,
+#skills-section,
+#projects-section {
+  padding: 50px 35px;
+  width: 100%;
+}
+
+a {
+  color: white;
+}
+
+#projects-section {
+  margin-top: 40px;
+  background-color: #9D1515
+}
+
+#aboutMe-section {
+  background-color: #9D1515
+}
+
+.hamburger {
+  width: 48px;
+  height: 42px;
+  border: 1px solid #eeeeef;
+  border-radius: 2px;
+  box-shadow: 0 0 2px #eeeeef;
+  padding: 10px 10px 10px 10px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.hamburger-stripe {
+  background-color: #9D1515;
+  height: 3px;
+  margin-bottom: 5px;
+}
+
+.typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+}
