@@ -502,7 +502,7 @@
     $('.msg3').typed({
       strings: [
         " ^5000 Javascript<span id='hey'></span>",
-        " ^500 Node.js<span id='hey'></span>",
+        " ^500 Noddddde.js<span id='hey'></span>",
         " ^500 HTML<span id='hey'></span>",
         " ^500 CSS<span id='hey'></span>",
         " ^500 REACT<span id='hey'></span>"
